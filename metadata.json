@@ -1,0 +1,6 @@
+{
+  "name": "FASTNET WIFI",
+  "description": "Fastnet WiFi Hotspot Portal — Kenyan commercial WiFi hotspot ISP portal with M-Pesa STK Push payments, captive portal login, MikroTik RouterOS integration, and real-time admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
